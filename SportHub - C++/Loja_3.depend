@@ -1,0 +1,225 @@
+# depslib dependency file v1.0
+1471432857 source:c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\estoque.cpp
+	"Estoque.h"
+
+1471378103 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\estoque.h
+	<list>
+	<stdio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Produtos.h"
+
+1471378103 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\produtos.h
+	<list>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+
+1471378103 source:c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\funcionarios.cpp
+	"Usuario.h"
+	"Funcionarios.h"
+
+1471378103 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\usuario.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+
+1471378103 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\funcionarios.h
+	<iostream>
+	<iomanip>
+	<string>
+	<list>
+	<stdio.h>
+	<cstdlib>
+	"Usuario.h"
+	"Estoque.h"
+
+1471432857 source:c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\produtos.cpp
+	"Produtos.h"
+
+1470941822 source:c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\main.cpp
+	"Menu.h"
+	"Menu.cpp"
+
+1471378103 source:c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\usuario.cpp
+	"Usuario.h"
+
+1470664000 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\menu.h
+	"Estoque.h"
+	"Funcionarios.h"
+
+1470878682 c:\users\carolina\desktop\pastas\programação orientada a objetos\loja_3\menu.cpp
+	"Menu.h"
+
+1471438660 source:c:\users\carolina\desktop\loja_3\estoque.cpp
+	"Estoque.h"
+
+1471378103 c:\users\carolina\desktop\loja_3\estoque.h
+	<list>
+	<stdio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Produtos.h"
+
+1471378103 c:\users\carolina\desktop\loja_3\produtos.h
+	<list>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+
+1471378103 source:c:\users\carolina\desktop\loja_3\funcionarios.cpp
+	"Usuario.h"
+	"Funcionarios.h"
+
+1471378103 c:\users\carolina\desktop\loja_3\usuario.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+
+1471378103 c:\users\carolina\desktop\loja_3\funcionarios.h
+	<iostream>
+	<iomanip>
+	<string>
+	<list>
+	<stdio.h>
+	<cstdlib>
+	"Usuario.h"
+	"Estoque.h"
+
+1470941822 source:c:\users\carolina\desktop\loja_3\main.cpp
+	"Menu.h"
+	"Menu.cpp"
+
+1470664000 c:\users\carolina\desktop\loja_3\menu.h
+	"Estoque.h"
+	"Funcionarios.h"
+
+1471465528 c:\users\carolina\desktop\loja_3\menu.cpp
+	"Menu.h"
+
+1471432857 source:c:\users\carolina\desktop\loja_3\produtos.cpp
+	"Produtos.h"
+
+1471378103 source:c:\users\carolina\desktop\loja_3\usuario.cpp
+	"Usuario.h"
+
+1471438660 source:c:\users\carolina\desktop\loja\estoque.cpp
+	"Estoque.h"
+
+1471378103 c:\users\carolina\desktop\loja\estoque.h
+	<list>
+	<stdio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Produtos.h"
+
+1471378103 c:\users\carolina\desktop\loja\produtos.h
+	<list>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+
+1471378103 source:c:\users\carolina\desktop\loja\funcionarios.cpp
+	"Usuario.h"
+	"Funcionarios.h"
+
+1471378103 c:\users\carolina\desktop\loja\usuario.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+
+1471378103 c:\users\carolina\desktop\loja\funcionarios.h
+	<iostream>
+	<iomanip>
+	<string>
+	<list>
+	<stdio.h>
+	<cstdlib>
+	"Usuario.h"
+	"Estoque.h"
+
+1470941822 source:c:\users\carolina\desktop\loja\main.cpp
+	"Menu.h"
+	"Menu.cpp"
+
+1470664000 c:\users\carolina\desktop\loja\menu.h
+	"Estoque.h"
+	"Funcionarios.h"
+
+1471465528 c:\users\carolina\desktop\loja\menu.cpp
+	"Menu.h"
+
+1471432857 source:c:\users\carolina\desktop\loja\produtos.cpp
+	"Produtos.h"
+
+1471378103 source:c:\users\carolina\desktop\loja\usuario.cpp
+	"Usuario.h"
+
+1471481674 source:c:\users\weslles\downloads\loja-c\loja - c++\estoque.cpp
+	"Estoque.h"
+
+1471378104 c:\users\weslles\downloads\loja-c\loja - c++\estoque.h
+	<list>
+	<stdio.h>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+	"Produtos.h"
+
+1471485426 c:\users\weslles\downloads\loja-c\loja - c++\produtos.h
+	<list>
+	<iostream>
+	<iomanip>
+	<string>
+	<cstdlib>
+
+1471378104 source:c:\users\weslles\downloads\loja-c\loja - c++\funcionarios.cpp
+	"Usuario.h"
+	"Funcionarios.h"
+
+1471378104 c:\users\weslles\downloads\loja-c\loja - c++\usuario.h
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<string>
+
+1471378104 c:\users\weslles\downloads\loja-c\loja - c++\funcionarios.h
+	<iostream>
+	<iomanip>
+	<string>
+	<list>
+	<stdio.h>
+	<cstdlib>
+	"Usuario.h"
+	"Estoque.h"
+
+1470941824 source:c:\users\weslles\downloads\loja-c\loja - c++\main.cpp
+	"Menu.h"
+	"Menu.cpp"
+
+1470664002 c:\users\weslles\downloads\loja-c\loja - c++\menu.h
+	"Estoque.h"
+	"Funcionarios.h"
+
+1471465530 c:\users\weslles\downloads\loja-c\loja - c++\menu.cpp
+	"Menu.h"
+
+1471432858 source:c:\users\weslles\downloads\loja-c\loja - c++\produtos.cpp
+	"Produtos.h"
+
+1471378104 source:c:\users\weslles\downloads\loja-c\loja - c++\usuario.cpp
+	"Usuario.h"
+
